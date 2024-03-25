@@ -1,9 +1,9 @@
 ### Hello there!
 
-My name is Vinícios and i am a 19 years old student from Brazil
+My name is Vinícios and i am a 19 years old student from Brazil 🇧🇷.
 
-- I'm currently learning my 3rd language, Russian.
-- I'm also searching for a good name for my custom programming language
+- I'm currently learning my 3rd language, Russian 🇷🇺.
+- I'm also searching for a good name for my custom programming language.
 
 <!--
 **ViniiR/ViniiR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
