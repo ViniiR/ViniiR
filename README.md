@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinícios</h1>
 <h3 align="center">A student from Brazil 🇧🇷.</h3>
 
-- 🔭 I’m currently working on **My programming language**
+- 🔭 I’m currently working on **A twitter(X) clone**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust and React.js**
 
 - 💬 Ask me about **JavaScript and Rust**
 
